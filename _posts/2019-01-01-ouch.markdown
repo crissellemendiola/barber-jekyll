@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Moxi's Art Show"
+date: 2019-01-01
+description: 
+image: /assets/images/OUCH.jpg
+author: Crisselle Mendiola
+tags: 
+  - Mural
+---
+
+An illustration showcased at Moxi's art show in 2019.
+
+![Placeholder](/assets/images/OUCH.jpg)

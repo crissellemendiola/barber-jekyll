@@ -1,30 +1,20 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: crissellecm@gmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
-description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
-default_img: /assets/images/seo.jpg
+name: Crisselle Mendiola
+title: Crisselle Mendiola
+description: 
+url: http://crissellemendiola.com
+default_img: /assets/images/contactpic.jpg
 social:
-  - name: twitter
-    url: https://twitter.com/thomasvaeth
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
-  - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
-  - name: github
-    url: https://github.com/samesies
-  - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: https://www.instagram.com/crissellem/
 
 # Contact settings
-contact_img: /assets/images/placeholder-28.jpg
+contact_img: /assets/images/contactpic.jpg
 formcarry: https://formcarry.com/s/HkIo0nMb7
 
 # Disqus settings
@@ -36,9 +26,9 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Crisselle Mendiola
+    bio: Crisselle is an illustrator based in Southern California. Her work primarily deals with expressing emotions and feelings, which can be seen through her characters. As these illustrations are usually character driven, she aims to tell a story and let people who view her work relate to it or empathize with it. Sometimes these pieces are lighthearted and fun and other times they are not. But either way, these feelings are shown through her distinct style.
+    url: http://crissellemendiola.com
 
 # Pagination settings
 pagination:
